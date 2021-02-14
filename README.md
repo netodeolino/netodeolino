@@ -6,6 +6,6 @@
 
 
 I'm Neto, Software Engineer at Secretaria da Fazenda do Estado do Ceará :man_technologist:
-- :heart: Java, Spring, JavaScript, Node.js, Vue.js, Angular
-- 🌱 I’m currently learning: Algorithms, AWS, Kubernetes, Kafka
+- :heart: Java, Spring, JavaScript, Node.js, Vue.js, Angular, Flutter
+- 🌱 I’m currently learning: Algorithms, AWS, Kafka, Clean Architecture
 
