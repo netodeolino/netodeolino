@@ -1,4 +1,4 @@
-### Hi I'm Neto, Software Engineer at Secretaria da Fazenda do Estado do Ceará :man_technologist:
+### Hi I'm Neto, Software Engineer at Zup Innovation :man_technologist:
 
 <p>
   <img src="https://img.shields.io/badge/Frontend-Vue.js-42b983"/>
