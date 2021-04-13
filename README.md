@@ -1,15 +1,13 @@
-### Hi I'm Neto, Software Engineer at Zup Innovation :man_technologist:
-
 <p>
-  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b983"/>
-  <img src="https://img.shields.io/badge/Backend-Java-f55247"/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter-60caf6"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/netodeolino)](https://www.linkedin.com/in/netodeolino)
-[![Blog](https://img.shields.io/badge/-netodeolino-181717?style=flat-square&logo=html5&link=https://netodeolino.github.io/)](https://netodeolino.github.io/)
-
-- :heart: Java, Spring, JavaScript, Node.js, Vue.js, Angular, Flutter
-- 🌱 I’m currently learning: AWS, Clean Architecture, Microservices
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netodeolino&theme=dracula&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+<img style="width: 100%" src="deolino.png" alt="Deolino">
