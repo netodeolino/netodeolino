@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Main technologies that I work with
 
-    Java, Spring, SQL, Hibernate, Maven, Git, Jenkins, Kibana, API Gateway, Microservices
+    Java, Spring, SQL, Hibernate, Maven, Jenkins, Kibana, API Gateway, Microservices, Kafka, OpenShift
 
 
 - 📚 Currently learning and improving
@@ -12,12 +12,12 @@
 
 - 🖥️ I have also worked and experience with
 
-    JavaScript/Typescript, Kotlin, JUnit, Spring (Security, Cloud, Data), Docker, AWS, Kafka, Redis
+    JUnit, Mockito, Spring (Security, Cloud, Data), JavaScript/Typescript, Kotlin, Docker, AWS, Redis
 
 
 - ⚙️ Other tools and technologies
 
-    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux
+    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux, Git
 
 
 <p align="center">
