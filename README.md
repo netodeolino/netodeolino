@@ -1,23 +1,23 @@
 <img style="width: 100%" src="deolino.png" alt="Deolino">
 
-- 👨🏻‍💻 Main technologies that I work with
+- 👨🏻‍💻 Main technologies that I work with:
 
-    Java, Spring, SQL, Hibernate, Maven, Jenkins, Kibana, API Gateway, Microservices, Kafka, OpenShift
+    Java, Spring Boot, SQL, Kafka, Microservice, OpenShift, Maven, Jenkins, Flyway
 
 
-- 📚 Currently learning and improving
+- 📚 Currently learning and improving:
 
     Go, Kubernetes
 
 
-- 🖥️ I have also worked and experience with
+- 🖥️ I've also worked and experience with:
 
-    JUnit, Mockito, Spring (Security, Cloud, Data), JavaScript/Typescript, Kotlin, Docker, AWS, Redis
+    JUnit, Mockito, Spring (Security, Cloud, Data), Typescript, Kotlin, Docker, AWS, Redis, API Gateway, Hibernate
 
 
-- ⚙️ Other tools and technologies
+- ⚙️ Other tools and technologies:
 
-    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux, Git
+    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux, Git, Kibana
 
 
 <p align="center">
