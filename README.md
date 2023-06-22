@@ -17,7 +17,7 @@
 
 - ⚙️ Other tools and technologies:
 
-    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux, Git, Kibana
+    IntelliJ, VS Code, Postman, Swagger, JWT, Sonar, Jira, Linux, Git, Kibana, GoCD
 
 
 <p align="center">
